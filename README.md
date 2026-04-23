@@ -20,7 +20,7 @@
 <img width="60%" alt="主界面" src="https://github.com/user-attachments/assets/8914d2c1-7606-4cbb-8ddd-74f686438ef6" />
 </p>
  
-图1 主界面
+<div align="center">图1 主界面</div>
 
 ### 漏氢计算与统计模块
 
@@ -31,7 +31,7 @@
 <img width="40%" alt="新增记录弹窗" src="https://github.com/user-attachments/assets/ef5018c2-a6df-4f62-bb8d-cfaefa1e7549" />
 </p>
  
-图2 新增记录/修改记录界面
+<div align="center">图2 新增记录/修改记录界面</div>
 
 ### 周期数据汇总分析
 
@@ -47,7 +47,7 @@
 <img width="40%" alt="参数弹窗" src="https://github.com/user-attachments/assets/49a1f6e4-f90f-4860-a26b-f69432f7d136" />
 </p>
  
-图3 机组参数界面
+<div align="center">图3 机组参数界面</div>
 
 ### 报表自动化导出
 
@@ -58,4 +58,4 @@
 <img width="60%" alt="报表格式" src="https://github.com/user-attachments/assets/98b8e023-0d5d-4902-ac47-6d55c0a522a9" />
 </p>
  
-图4 导出报表格式
+<div align="center">图4 导出报表格式</div>
